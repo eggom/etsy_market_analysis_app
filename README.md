@@ -50,7 +50,7 @@ Visualize the most common words in listing descriptions using a WordCloud.
 
 ## Additional Resources
 
-- [Jupyter Notebook with Detailed Analysis](https://github.com/gupta-aayushkr/Etsy-Market-Analysis/blob/main/EDA.ipynb)
+- [Jupyter Notebook with Detailed Analysis](https://github.com/eggom/etsy_market_analysis_app/blob/main/EDA.ipynb)
 - [Web Application (Live Demo)](https://etsy-market-analysis.streamlit.app/Analysis)
 
 Feel free to customize and extend this app as needed for your own data analysis projects.
